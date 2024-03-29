@@ -1,6 +1,7 @@
 package Chapter3.Lv2.교점에_별_만들기;
 
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.List;
 
 public class Solution {
@@ -90,5 +91,6 @@ public class Solution {
             result[i] = new String(arr[i]);
         }
         return result;
+
     }
 }
