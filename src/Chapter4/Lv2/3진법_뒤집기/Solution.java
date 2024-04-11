@@ -18,3 +18,9 @@ class Solution {
         return Integer.valueOf(reversed,3);
     }
 }
+        /*
+        (1) Integer.parseInt()와 (2) Integer.valueOf()의 차이점
+        (1)은 결과값을 기본 자료형인 int로 반환함
+        (2)은 문자열의 값을 정수형으로 변환한 뒤 참조 자료형(레퍼런스 타입)인 Integer 객체로 만들어서 반환함
+
+         */
